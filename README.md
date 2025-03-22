@@ -2,8 +2,7 @@
 
 A dynamic GitHub contributions graph widget for Übersicht, styled for dark mode and designed to scale dynamically based on the widget's dimensions.
 
-![Widget Preview](./preview.png)
-*Replace this placeholder with a screenshot of your widget in action!*
+![Widget Preview](./screenshot.png)
 
 ## Features
 - Displays your recent GitHub contribution graph.

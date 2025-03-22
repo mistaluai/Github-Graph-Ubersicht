@@ -1,0 +1,10 @@
+{
+  "name": "GitHub Contributions Graph",
+  "description": "A sleek, dynamic GitHub contributions graph widget for Übersicht. Designed for dark mode and fully customizable.",
+  "author": "mistaluai",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/mistaluai/github-contributions-widget",
+  "refreshFrequency": 3600000,
+  "backend": false
+}

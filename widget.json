@@ -1,0 +1,41 @@
+{
+  "name": "GitHub Contributions Graph",
+  "description": "A dark-mode GitHub contributions graph widget for Übersicht. Dynamically scales to fit the widget's size.",
+  "author": "mistaluai",
+  "version": "1.0.0",
+  "license": "MIT",
+  "refreshFrequency": 3600000,
+  "repository": "https://github.com/mistaluai/github-contributions-widget",
+  "options": {
+    "githubUsername": {
+      "type": "string",
+      "default": "your-github-username",
+      "description": "Your GitHub username"
+    },
+    "githubToken": {
+      "type": "string",
+      "default": "your-github-token",
+      "description": "Your GitHub personal access token"
+    },
+    "widgetWidth": {
+      "type": "number",
+      "default": 600,
+      "description": "Width of the widget in pixels"
+    },
+    "widgetHeight": {
+      "type": "number",
+      "default": 150,
+      "description": "Height of the widget in pixels"
+    },
+    "widgetLeft": {
+      "type": "number",
+      "default": 50,
+      "description": "Position from the left of the screen"
+    },
+    "widgetTop": {
+      "type": "number",
+      "default": 50,
+      "description": "Position from the top of the screen"
+    }
+  }
+}
